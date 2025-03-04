@@ -1,5 +1,8 @@
-Lucio puzzle
+# Lucio puzzle
+
 Create a website that allows the user to input a hex color code and see what the corresponding color looks like. Add a color picker widget to allow them to visually select a color as well.
+![image](https://github.com/user-attachments/assets/177c22a2-016e-4d8b-9d0c-f95d694d6f6a)
+
 
 # React + Vite
 
